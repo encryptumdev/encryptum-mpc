@@ -20,6 +20,9 @@ https://github.com/user-attachments/assets/5ae9fa27-9d51-41cb-8d18-e9ad1679bb7c
 
 ## Setup
 
+Install redis on your desktop https://redis.io/docs/latest/operate/oss_and_stack/install/archive/install-redis/ 
+This MCP use redis for caching IPFS file
+
 1. Clone the repository
 ```
 git clone https://github.com/encryptumdev/encryptum-mpc.git
