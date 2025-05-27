@@ -1,3 +1,11 @@
+/**
+ * [metamask-mcp]{@link https://github.com/Xiawpohr/metamask-mcp}
+ *
+ * @version 1.0.0
+ * @author Xiawpohr@gmail.com
+ * @license MIT
+ */
+
 import { FastMCP } from "fastmcp";
 import { z } from "zod";
 import { disconnect } from "@wagmi/core";
