@@ -11,7 +11,7 @@ The **Model Context Protocol** is designed to:
 - Power next-gen applications in AI, legal, finance, health, and beyond
 
 ## Preview
-https://github.com/user-attachments/assets/5ae9fa27-9d51-41cb-8d18-e9ad1679bb7c
+https://github.com/user-attachments/assets/f9c4d422-297a-4d63-bf5e-89722ad7ef30
 
 ## Requirements
 
